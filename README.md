@@ -25,4 +25,4 @@ All of the client's needs were satisfied through refactoring. Codebase was edite
 
 * Visit Horiseon website at: [https://shaylastevenson.github.io/refactor_horiseon/](https://shaylastevenson.github.io/refactor_horiseon/)
 
-* View Github repository at: [https://github.com/ShaylaStevenson/refactor_horiseon](https://shaylastevenson.github.io/refactor_horiseon/)
+* View Github repository at: [https://github.com/ShaylaStevenson/refactor_horiseon](https://github.com/ShaylaStevenson/refactor_horiseon)
